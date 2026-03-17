@@ -9,6 +9,5 @@
     },
     "input": "./input_schema.json",
     "dockerfile": "../Dockerfile",
-     "minMemoryMbytes": 512,
-    "maxMemoryMbytes": 1024
+    "maxMemoryMbytes": 512
 }
